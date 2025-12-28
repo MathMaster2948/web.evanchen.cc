@@ -138,7 +138,7 @@ See also [Geoff Smith's page][geoff].
   - [Modern Olympiad Number Theory](https://aops.com/community/c6h2344755), by Aditya Khurmi.
     More olympiad-oriented number theory textbook.
 
-- [Problems from the Book](https://maa.org/press/maa-reviews/problems-from-the-book)
+- [Problems from the Book](https://www.awesomemath.org/product/problems-from-the-book-3rd-editon/)
   by Titu Andreescu and Gabriel Dospinescu.
   Intermediate-advanced textbook covering topics in inequalities,
   algebra, analysis, combinatorics, and number theory.
