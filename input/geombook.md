@@ -155,10 +155,10 @@ See also [advice from Geoff Smith on geometry](https://web.archive.org/web/20250
 
 [106]: https://www.awesomemath.org/product/106-geometry-problems-from-amsp/
 [107]: https://www.awesomemath.org/product/107-geometry-problems-from-amy/
-[110]: https://bookstore.ams.org/xyz-14/
+[110]: https://www.awesomemath.org/product/110-geometry-problems-from-imo-soft/
 [log]: https://www.awesomemath.org/product/lemmas-in-olympiad-geometry/
 [stefan]: https://www.olympiadgeometry.com/
-[ukmt]: https://shop.ukmt.org.uk/ukmt-books/plane-euclidean-geometry
+[ukmt]: https://ukmt.org.uk/product/plane-euclidean-geometry-theory-and-problems
 [ebook]: https://bookstore.ams.org/prb-27/
 [cover]: /static/egmo-cover.jpg
 [googlebook]: https://books.google.com/books?id=47UaDAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false
