@@ -144,7 +144,7 @@ Of course there are other good geometry textbooks too.
 A few that I recommend are:
 
 - [A Beautiful Journey Through Olympiad Geometry][stefan] by Stefan Lozanovski,
-  which is free (though I encourage you to donate to the author if you can).
+  which is free (though I encourage you to donate to the author if you can--No longer accepting donations).
   This book ramps up more slowly than mine,
   so I would also recommend it to beginners.
 - [Lemmas in Olympiad Geometry][log]
